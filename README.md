@@ -3,7 +3,9 @@
 The end of my training on HTML & CSS.
 
 * Magazine
-<img src="https://github.com/AmauryMaros/Responsive-Web-Design-2/blob/main/00_screens/10_magazine.jpg">
+
+<img src="https://github.com/AmauryMaros/Responsive-Web-Design-2/blob/main/00_screens/10_magazine.jpg" width = 40% height = 40%> <img src="https://github.com/AmauryMaros/Responsive-Web-Design-2/blob/main/00_screens/10_magazine2.jpg" width = 40% height = 40%>
+
 
 * Ferris Wheel Animation :
   * rotation with color change
